@@ -1,0 +1,10 @@
+{
+    "role_scores": {
+        "Builders": 0.0969,
+        "Enablers": 0.0729,
+        "Thrivers": 0.1905,
+        "Supportees": 0.6397
+    },
+    "dominant_role": "Supportees",
+    "rewritten_summary": "Reliable AI Engineer with extensive experience in building and maintaining robust, scalable LLM and Generative AI systems. Proven ability to deliver consistent performance through meticulous infrastructure management, quality assurance, and optimized CI/CD pipelines. Expertise in deploying and operating services on AWS (EKS, ECS, EC2, Lambda) and related GCP equivalents, ensuring stability, full observability, and proactive issue resolution. Dedicated to maintaining secure, high-performing AI solutions within multi-tenant cloud environments."
+}

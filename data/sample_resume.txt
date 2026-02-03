@@ -1,0 +1,118 @@
+Jaydipsinh Zala
+AI Engineer
+PROFILE
+AI Engineer with of hands-on production experience designing, building, and deploying
+secure, scalable LLM and Generative AI systems using LangChain, LangGraph, RAG
+pipelines, Hugging Face Transformers, LlamaIndex, and OpenAI APIs, including practical
+integration with AWS Bedrock and Gemini AI Studio for LLM content generation and
+semantic search. Expert in developing high-performance Python microservices and RESTful
+APIs (deployed exclusively as FastAPI applications on EKS) for inference and
+retrieval-augmented generation, integrating structured and unstructured data via vector
+databases and relational databases to deliver accurate, grounded responses at enterprise
+scale. Proven experience in designing and implementing robust, scalable, and responsive
+end-to-end AI systems, with proficiency in both AWS and GCP cloud environments.
+Experienced in containerizing and orchestrating workloads with Docker and Kubernetes,
+deploying and operating services on AWS (ECS, EC2, Lambda, EKS) and GCP equivalents,
+with hands-on management and scaling of EKS infrastructure, full observability, monitoring,
+autoscaling, and CI/CD pipelines using GitHub Actions, while enforcing cloud security,
+performance optimization, and responsible AI practices in multi-tenant environments.
+Passionate about advancing LLM, RAG, and multi-agent systems and eager to build
+intelligent, cloud-native security solutions.
+PROFESSIONAL EXPERIENCE
+AI Engineer
+● Designed and shipped production RAG systems using LangChain, LangGraph,
+LlamaIndex, AWS Bedrock, Gemini AI Studio, and multi-agent workflows for
+enterprise & government clients, enabling LLM content generation and semantic
+search at scale.
+● Built scalable Python/FastAPI microservices and APIs (deployed on EKS) for LLM
+inference + retrieval, handling high concurrency with sub-second latency and
+integration with relational databases like PostgreSQL and Supabase.
+● Implemented and optimized vector search with Pinecone, Chroma, FAISS, Milvus,
+Qdrant, Weaviate, and S3 Vectors for multi-million-token document retrieval,
+supporting hybrid semantic search and content generation workflows.
+● Deployed containerized services via Docker + Kubernetes on AWS
+(ECS/EKS/Lambda) and GCP with hands-on EKS infrastructure management,
+scaling, observability, autoscaling, and CI/CD (GitHub Actions).
+● Integrated and fine-tuned LLMs (OpenAI, Qwen, Llama) using Hugging Face, AWS
+Bedrock, and Gemini AI Studio; enforced structured outputs and self-hosted
+inference for security/compliance in end-to-end AI systems.
+● Delivered secure, multi-tenant RAG pipelines with RBAC, data isolation, and
+responsible AI practices in regulated environments, leveraging both AWS and GCP
+for resilient, responsive deployments.
+SKILLS
+● AI & LLM Frameworks: LangChain • LangGraph • LlamaIndex • CrewAI • Hugging
+Face Transformers • OpenAI API • AWS Bedrock • Gemini AI Studio • RAG Pipelines
+• LLM Content Generation • Semantic Search • Prompt Engineering • Multi-Agent
+Systems
+● Backend & APIs: Python (FastAPI) • RESTful APIs • SQLAlchemy
+● Retrieval & Data: Pinecone • ChromaDB • FAISS • Milvus • Qdrant • Weaviate • S3
+Vectors • Vector Embeddings • Hybrid Search • Document Parsing & OCR •
+PostgreSQL • Supabase
+● Cloud & DevOps: AWS (ECS, EKS, EC2, Lambda, S3) • GCP • Docker •
+Kubernetes • EKS Infrastructure Management & Scaling • CI/CD (GitHub Actions) •
+Observability & Autoscaling • Cloud Security
+● Databases: PostgreSQL • Supabase • MongoDB • MySQL
+● MLOps & Tools: MLflow • Model Monitoring • Self-hosted Inference • Structured
+Output (JSON) Enforcement • Cursor IDE • GitHub Copilot • Manus-AI
+PROJECTS
+AI-Powered Voice Agent, End-to-End Real-Time Voice AI System
+● Engineered a low-latency, real-time voice-to-text-to-LLM pipeline powered by
+LangGraph agents, Retrieval-Augmented Generation, AWS Bedrock, and semantic
+search, delivering contextually grounded LLM content generation during live
+conversations.
+● Built scalable Python/FastAPI microservices (deployed on EKS) for concurrent audio
+streaming, Whisper transcription, LLM reasoning with
+ChromaDB/Pinecone/Qdrant-backed knowledge retrieval, and Coqui TTS synthesis.
+● Containerized the entire stack with Docker + Kubernetes, deployed on AWS
+ECS/EKS and GCP with hands-on EKS scaling, autoscaling, health checks,
+observability, and multi-tenant isolation for production workloads.
+● Implemented secure, high-throughput inference endpoints supporting sub-500 ms
+end-to-end latency while maintaining data privacy and compliance in regulated
+environments.
+Dell AI Chatbot – Enterprise Operational Intelligence Platform
+● Designed and delivered a secure, enterprise-grade conversational AI platform using
+Gemini AI Studio and end-to-end AI systems that provide real-time insights across
+Dell’s Control Tower ecosystem for internal teams and partners.
+● Built a LangChain ReAct agent that intelligently decomposes natural-language
+queries and orchestrates specialized tools for multi-step reasoning and LLM content
+generation.
+● Engineered a high-performance SQLAlchemy Database Layer with connection
+pooling, query caching (~80% hit rate), and real-time access to enterprise databases
+including PostgreSQL and Supabase.
+● Implemented secure SQL execution with role-based permissions and vendor data
+isolation, plus ChromaDB/Weaviate semantic retrieval for process guidance and an
+LLM-powered Data Analyzer for automated insights.
+● Deployed scalable FastAPI backend on AWS EKS using Docker + Kubernetes (with
+GCP hybrid support), with full observability, monitoring, and autoscaling supporting
+concurrent users at sub-second latency.
+Government RFP Evaluation System (Privacy-First)
+● Addressed complex proposal evaluation needs by implementing a LangGraph
+multi-agent system that successfully processed documents exceeding standard
+context windows using AWS Bedrock for semantic search.
+● Engineered robust document parsing pipeline with fallback OCR, standardizing
+PDF/DOCX files into structured Markdown format for consistent LLM processing.
+● Transitioned from OpenAI PoC to production by deploying Qwen models with
+LM-Enforcer, resulting in structured JSON outputs that satisfied strict government
+privacy requirements.
+● Containerized with Docker and automated CI/CD via GitHub Actions, with EKS
+infrastructure scaling for robust, responsive performance.
+Ecommerce Chatbot
+● Built a scalable end-to-end product tagging pipeline using Vision-Language Models
+(VLMs) and S3 Vectors to enrich incomplete metadata across large, dynamic
+inventories, improving product searchability and recommendation precision via
+semantic search.
+● Developed an intelligent, agent-based chatbot using LangGraph and CrewAI to
+manage modular LLM flows, interpret user preferences, and generate personalized,
+multi-step product recommendations with LLM content generation.
+● Integrated with a MySQL/Supabase database using dynamic, LLM-generated SQL
+queries and implemented smart interaction features like quick suggestions and
+follow-up prompts to boost user engagement and discovery efficiency.
+Secure Document RAG & One-Click Deployment Platform
+● Built a platform where users can upload documents and interact with a chatbot that
+retrieves answers specifically from their files using LLMs and vector databases like
+Qdrant/Weaviate for semantic search. Developed features like automatic isolated
+Docker environments, initialized GitHub repositories, and a one-click deployment
+pipeline secured by SSL certificates. Designed a Streamlit-based admin dashboard
+with a FastAPI backend (deployed on EKS) for seamless interaction and system
+management. Used the OpenAI framework for embedding and LLM, and ChromaDB
+to store data locally.
